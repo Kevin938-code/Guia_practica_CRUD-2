@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cálculo I",
+    "codigo": "MAT101",
+    "creditos": 4,
+    "cupos": 28
+  },
+  {
+    "id": 2,
+    "nombre": "Física",
+    "codigo": "FIS202",
+    "creditos": 3,
+    "cupos": 24
+  },
+  {
+    "id": 3,
+    "nombre": "Tecnicas De Programación",
+    "codigo": "TEC303",
+    "creditos": 5,
+    "cupos": 0
+  }
+]
